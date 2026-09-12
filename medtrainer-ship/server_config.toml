@@ -1,0 +1,18 @@
+[game]
+hostname = "Medicine Training Practice"
+lobbyenabled = false
+defaultpreset = "extended"
+map = "medbaytrainer"
+mapforced = true
+
+[shuttle]
+arrivals = false
+
+[ic]
+random_characters = true
+
+[net]
+bindto = "0.0.0.0"
+
+[log]
+enabled = true
